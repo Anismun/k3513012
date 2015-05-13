@@ -1,6 +1,9 @@
 <?php
 //Anis Munadhiroh
 //PTIK
+//FKIP
+//UNS
+
 /**
  * CodeIgniter
  *
